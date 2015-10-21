@@ -1,0 +1,3 @@
+#Assignment Details
+- make a semi-major project with your chosen technology (RonR,DC,MEAN,React, etc.)
+- have fun!
